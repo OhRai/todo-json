@@ -1,9 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "title": "Get Groceries",
+      "description": "apples, banans, eetc.,",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Study for school",
+      "description": "2 hours",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "tomato",
+      "description": "tomato",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "something",
+      "description": "a todo",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "completed": false,
+      "id": 6
+    }
+  ]
 }
